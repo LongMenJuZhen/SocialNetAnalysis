@@ -8,6 +8,7 @@
       <excludeFolder url="file://$MODULE_DIR$/data/raw/董监高" />
       <excludeFolder url="file://$MODULE_DIR$/data/roast" />
       <excludeFolder url="file://$MODULE_DIR$/reference" />
+      <excludeFolder url="file://$MODULE_DIR$/data/processed" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.12 (SocialNetAnalysis)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
